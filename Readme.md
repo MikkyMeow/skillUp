@@ -1,0 +1,1 @@
+[Открыть в браузере](https://rawcdn.githack.com/MikkyMeow/skillUp/fe259c4eb4953410a831419fb8e28824f005062e/index.html)
