@@ -1,1 +1,1 @@
-[Открыть в браузере](https://rawcdn.githack.com/MikkyMeow/skillUp/69e3914ce91964fdd00078b1a89dcde2b7ed6349/index.html)
+https://mikkymeow.github.io/skillUp/
